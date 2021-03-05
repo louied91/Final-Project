@@ -1,0 +1,6 @@
+
+
+CREATE TABLE timelist (
+	id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	elapsed_time TEXT NOT NULL
+);
